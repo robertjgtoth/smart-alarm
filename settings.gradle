@@ -1,0 +1,3 @@
+include 'maps'
+
+rootProject.name = 'smart-alarm'
